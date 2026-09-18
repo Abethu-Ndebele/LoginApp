@@ -70,3 +70,10 @@ Bloch, J., 2018. Effective Java. 3rd ed. Boston: Addison-Wesley Professional.
 ​Deitel, P.J. and Deitel, H.M., 2017. Java How to Program: Early Objects. 11th ed. Upper Saddle River, NJ: Pearson Education.
 ​JUnit Team, 2024. JUnit 5 User Guide. [online] JUnit.org. Available at: https://junit.org/junit5/docs/current/user-guide/ [Accessed 18 September 2026].
 ​Oracle, 2024. Java Platform, Standard Edition Documentation - Class Pattern (java.util.regex). [online] Oracle Documentation. Available at: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/regex/Pattern.html [Accessed 18 September 2026].
+Oracle, 2024. Java Platform, Standard Edition Documentation - Class Pattern (java.util.regex). [online] Oracle Documentation. Available at: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/regex/Pattern.html [Accessed 18 September 2026].
+​Oracle, 2024. The Java™ Tutorials: Character Class. [online] Oracle Documentation. Available at: https://docs.oracle.com/javase/tutorial/java/data/characters.html [Accessed 18 September 2026].
+​Oracle, 2024. The Java™ Tutorials: Essential Java Classes - Regular Expressions. [online] Oracle Documentation. Available at: https://docs.oracle.com/javase/tutorial/essential/regex/ [Accessed 18 September 2026].
+​Pressman, R.S. and Maxim, B.R., 2020. Software Engineering: A Practitioner's Approach. 9th ed. New York: McGraw-Hill Education.
+​Schildt, H., 2018. Java: A Beginner's Guide. 8th ed. New York: McGraw-Hill Education.
+​Sommerville, I., 2016. Software Engineering. 10th ed. Boston: Pearson.
+​W3Schools, 2024. Java User Input (Scanner). [online] W3Schools. Available at: https://www.w3schools.com/java/java_user_input.asp [Accessed 18 September 2026].
