@@ -7,7 +7,7 @@ PROG5121 PoE Part 1 — Registration and Login Feature. Java application that va
 | **Student Name** | Abethu Sphelele Ndebele |
 | **Student NO** | *[ST10533948]* |
 | **Module** | Software Development / Programming (Java) |
-| **Institution** | Rosebank College |
+| **Institution** | Rosebank International |
 | **IDE Used** | Apache NetBeans |
 
 ---
